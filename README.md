@@ -6,4 +6,4 @@ This is a simple readme file
 
 # Heading 3
 
-Learning branching
+I am Learning branching & conflicts
