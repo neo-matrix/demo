@@ -7,3 +7,5 @@ This is a simple readme file
 # Heading 3
 
 Learning branching
+
+Bad commit
